@@ -93,9 +93,9 @@ def simulate_walks(G, num_walks, walk_length,matrix,is_directed,p,q):
     '''
     walks = []
     nodes = list(G.nodes())
-    print 'Walk iteration:'
+    print('Walk iteration:')
     for walk_iter in range(num_walks):
-        print str(walk_iter+1), '/', str(num_walks)
+        print(str(walk_iter+1) + '/' + str(num_walks))
         random.shuffle(nodes) 
         for node in nodes:
             # print "chosen node id: ",nodes
@@ -178,14 +178,14 @@ def edge2vec_walk(G, walk_length, start_node,matrix,is_directed,p,q):
  
 
 def main(args):  
-    print "begin to read transition matrix"
+    print("begin to read transition matrix")
     trans_matrix = read_edge_type_matrix(args.matrix)
-    print trans_matrix
+    print(trans_matrix)
 
-    print "------begin to read graph---------"
+    print("------begin to read graph---------")
     G = read_graph(args.input,args.weighted,args.directed) 
 
-    print "------begin to simulate walk---------" 
+    print("------begin to simulate walk---------")
     walks = simulate_walks(G,args.num_walks, args.walk_length,trans_matrix,args.directed,args.p,args.q) 
     # print walks  
     model = Word2Vec(walks, size=args.dimensions, window=args.window_size, min_count=0, sg=1, workers=args.workers, iter=args.iter)

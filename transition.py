@@ -101,9 +101,9 @@ def simulate_walks(G, num_walks, walk_length,matrix,is_directed,p,q):
     '''
     walks = []
     links = list(G.edges(data = True))
-    print 'Walk iteration:'
+    print('Walk iteration:')
     for walk_iter in range(num_walks):
-        print str(walk_iter+1), '/', str(num_walks)
+        print(str(walk_iter+1) + '/' + str(num_walks))
         random.shuffle(links)
         count = 1000
         for link in links:
@@ -331,10 +331,10 @@ def relu(x):
 def main(args): 
     # print "------begin to write graph---------"
     # generate_graph_write_edgelist(args.m1,args.m2,args.input)
-    print "begin to initialize transition matrix"
+    print("begin to initialize transition matrix")
     trans_matrix = initialize_edge_type_matrix(args.type_size)
-    print trans_matrix
-    print "------begin to read graph---------" 
+    print(trans_matrix)
+    print("------begin to read graph---------")
     G = read_graph(args.input,args.weighted,args.directed)
     # print G.edges(data=True)
     # nodes = list(G.nodes)
@@ -342,14 +342,14 @@ def main(args):
 
     # # G=nx.barbell_graph(17,1)
     # # draw_graph(G) 
-    print "------begin to simulate walk---------"
+    print("------begin to simulate walk---------")
     for i in range(args.em_iteration):
         walks = simulate_walks(G,args.num_walks, args.walk_length,trans_matrix,args.directed,args.p,args.q)#M step
-        print str(i), "th iteration for Upating transition matrix!"
+        print(str(i) + "th iteration for Upating transition matrix!")
         trans_matrix = update_trans_matrix(walks,args.type_size,args.e_step)#E step
-        print "trans_matrix: ",trans_matrix
+        print("trans_matrix: " + trans_matrix)
     # print walks 
-    print "------finish!---------"
+    print("------finish!---------")
     np.savetxt(args.output, trans_matrix)
 if __name__ == "__main__":
     args = parse_args()
