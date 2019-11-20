@@ -351,7 +351,7 @@ def main(args):
         walks = simulate_walks(G,args.num_walks, args.walk_length,trans_matrix,args.directed,args.p,args.q)#M step
         print(str(i) + "th iteration for Upating transition matrix!")
         trans_matrix = update_trans_matrix(walks,args.type_size,args.e_step)#E step
-        print("trans_matrix: " + trans_matrix)
+        print("trans_matrix: ", trans_matrix)
     # print walks 
     print("------finish!---------")
     np.savetxt(args.output, trans_matrix)
