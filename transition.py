@@ -300,21 +300,21 @@ def wilcoxon_test(v1,v2):# original metric: the smaller the more similar
     return 1/(math.sqrt(result)+1)
 
 def entroy_test(v1,v2):#original metric: the smaller the more similar
-    result = stats.entropy(v1,v2)
+    #result = stats.entropy(v1,v2)
     result = stats.wilcoxon(v1, v2).statistic
     if result != result:
         result = 0
     return result
 
 def spearmanr_test(v1,v2):#original metric: the larger the more similar 
-    result = stats.mstats.spearmanr(v1,v2).correlation
+    #result = stats.mstats.spearmanr(v1,v2).correlation
     result = stats.wilcoxon(v1, v2).statistic
     if result != result:
         result = -1
     return sigmoid(result)
 
 def pearsonr_test(v1,v2):#original metric: the larger the more similar
-    result = stats.mstats.pearsonr(v1,v2)[0]
+    #result = stats.mstats.pearsonr(v1,v2)[0]
     result = stats.wilcoxon(v1, v2).statistic
     if result != result:
         result = -1
