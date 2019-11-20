@@ -304,6 +304,8 @@ def entroy_test(v1,v2):#original metric: the smaller the more similar
 
 def spearmanr_test(v1,v2):#original metric: the larger the more similar 
     result = stats.mstats.spearmanr(v1,v2).correlation
+    print(v1)
+    print(v2)
     result = stats.wilcoxon(v1, v2).statistic
     if result != result:
         result = -1
