@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 import argparse
 import networkx as nx
 import matplotlib.pyplot as plt

@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 import argparse
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -304,9 +306,6 @@ def entroy_test(v1,v2):#original metric: the smaller the more similar
 
 def spearmanr_test(v1,v2):#original metric: the larger the more similar 
     result = stats.mstats.spearmanr(v1,v2).correlation
-    for i in range(len(v1)):
-        if v1[i] == v2[i]:
-            v2[i] += 1e-6
     result = stats.wilcoxon(v1, v2).statistic
     if result != result:
         result = -1
