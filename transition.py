@@ -2,6 +2,8 @@ from __future__ import print_function
 
 import argparse
 import networkx as nx
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import random
 import numpy as np   
