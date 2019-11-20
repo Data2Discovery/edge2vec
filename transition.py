@@ -262,7 +262,7 @@ def update_trans_matrix(walks,type_size,evaluation_metric):
             if i in curr_repo:
                 repo[i].append(curr_repo[i]) 
             else:
-                repo[i].append(0) 
+                repo[i].append(1.e-6) 
     
     for i in range(type_size):
         # print "repo ",i, ": ",repo[i],type(repo[i])
