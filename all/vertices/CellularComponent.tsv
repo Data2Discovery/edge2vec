@@ -1,0 +1,472 @@
+id:ID	:LABEL	label
+GO:0019867	CellularComponent	outer membrane
+GO:0005875	CellularComponent	microtubule associated complex
+GO:0009986	CellularComponent	cell surface
+GO:0005666	CellularComponent	DNA-directed RNA polymerase III complex
+GO:0005767	CellularComponent	secondary lysosome
+GO:0000118	CellularComponent	histone deacetylase complex
+GO:0000811	CellularComponent	GINS complex
+GO:0031224	CellularComponent	intrinsic component of membrane
+GO:0043005	CellularComponent	neuron projection
+GO:0031091	CellularComponent	platelet alpha granule
+GO:0044446	CellularComponent	intracellular organelle part
+GO:1990720	CellularComponent	C2 axonemal microtubule
+GO:1990904	CellularComponent	ribonucleoprotein complex
+GO:0044279	CellularComponent	other organism membrane
+GO:0097729	CellularComponent	9+2 motile cilium
+GO:0005730	CellularComponent	nucleolus
+GO:0000323	CellularComponent	lytic vacuole
+GO:0019033	CellularComponent	viral tegument
+GO:0005768	CellularComponent	endosome
+GO:0005858	CellularComponent	axonemal dynein complex
+GO:0030286	CellularComponent	dynein complex
+GO:0005929	CellularComponent	cilium
+GO:0005902	CellularComponent	microvillus
+GO:0005967	CellularComponent	mitochondrial pyruvate dehydrogenase complex
+GO:0098553	CellularComponent	lumenal side of endoplasmic reticulum membrane
+GO:0016580	CellularComponent	Sin3 complex
+GO:0031088	CellularComponent	platelet dense granule membrane
+GO:0031264	CellularComponent	death-inducing signaling complex
+GO:0072493	CellularComponent	host cell endosome lumen
+GO:0031514	CellularComponent	motile cilium
+GO:0005793	CellularComponent	endoplasmic reticulum-Golgi intermediate compartment
+GO:0044464	CellularComponent	cell part
+GO:0044456	CellularComponent	synapse part
+GO:0033644	CellularComponent	host cell membrane
+GO:0034359	CellularComponent	mature chylomicron
+GO:0034366	CellularComponent	spherical high-density lipoprotein particle
+GO:0034358	CellularComponent	plasma lipoprotein particle
+GO:1990529	CellularComponent	glycosylphosphatidylinositol-mannosyltransferase I complex
+GO:0071162	CellularComponent	CMG complex
+GO:1990851	CellularComponent	Wnt-Frizzled-LRP5/6 complex
+GO:0061202	CellularComponent	clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane
+GO:0044322	CellularComponent	endoplasmic reticulum quality control compartment
+GO:0005634	CellularComponent	nucleus
+GO:0000228	CellularComponent	nuclear chromosome
+GO:0043232	CellularComponent	intracellular non-membrane-bounded organelle
+GO:0044444	CellularComponent	cytoplasmic part
+GO:0044438	CellularComponent	microbody part
+GO:0043656	CellularComponent	intracellular region of host
+GO:0055038	CellularComponent	recycling endosome membrane
+GO:0034365	CellularComponent	discoidal high-density lipoprotein particle
+GO:1903561	CellularComponent	extracellular vesicle
+GO:0070469	CellularComponent	respiratory chain
+GO:0033162	CellularComponent	melanosome membrane
+GO:0044218	CellularComponent	other organism cell membrane
+GO:1990719	CellularComponent	C1 axonemal microtubule
+GO:0070931	CellularComponent	Golgi-associated vesicle lumen
+GO:0097524	CellularComponent	sperm plasma membrane
+GO:0061201	CellularComponent	clathrin-sculpted gamma-aminobutyric acid transport vesicle lumen
+GO:0005930	CellularComponent	axoneme
+GO:0031226	CellularComponent	intrinsic component of plasma membrane
+GO:0031905	CellularComponent	early endosome lumen
+GO:0044429	CellularComponent	mitochondrial part
+GO:0048770	CellularComponent	pigment granule
+GO:0044463	CellularComponent	cell projection part
+GO:0044423	CellularComponent	virion part
+GO:0032301	CellularComponent	MutSalpha complex
+GO:0060170	CellularComponent	ciliary membrane
+GO:0016020	CellularComponent	membrane
+GO:0070081	CellularComponent	clathrin-sculpted monoamine transport vesicle
+GO:0044095	CellularComponent	host cell nucleoplasm
+GO:0098797	CellularComponent	plasma membrane protein complex
+GO:0036021	CellularComponent	endolysosome lumen
+GO:0120038	CellularComponent	plasma membrane bounded cell projection part
+GO:0005886	CellularComponent	plasma membrane
+GO:0042582	CellularComponent	azurophil granule
+GO:0030134	CellularComponent	COPII-coated ER to Golgi transport vesicle
+GO:0005610	CellularComponent	laminin-5 complex
+GO:0005787	CellularComponent	signal peptidase complex
+GO:1902494	CellularComponent	catalytic complex
+GO:0008021	CellularComponent	synaptic vesicle
+GO:0030176	CellularComponent	integral component of endoplasmic reticulum membrane
+GO:0009279	CellularComponent	cell outer membrane
+GO:0045244	CellularComponent	succinate-CoA ligase complex (GDP-forming)
+GO:0016529	CellularComponent	sarcoplasmic reticulum
+GO:0005829	CellularComponent	cytosol
+GO:0001750	CellularComponent	photoreceptor outer segment
+GO:0000808	CellularComponent	origin recognition complex
+GO:0000782	CellularComponent	telomere cap complex
+GO:0031227	CellularComponent	intrinsic component of endoplasmic reticulum membrane
+GO:0042597	CellularComponent	periplasmic space
+GO:0098590	CellularComponent	plasma membrane region
+GO:0030672	CellularComponent	synaptic vesicle membrane
+GO:0044455	CellularComponent	mitochondrial membrane part
+GO:0000428	CellularComponent	DNA-directed RNA polymerase complex
+GO:0034362	CellularComponent	low-density lipoprotein particle
+GO:0043233	CellularComponent	organelle lumen
+GO:0097649	CellularComponent	A axonemal microtubule
+GO:0097486	CellularComponent	multivesicular body lumen
+GO:0015629	CellularComponent	actin cytoskeleton
+GO:0030658	CellularComponent	transport vesicle membrane
+GO:0005778	CellularComponent	peroxisomal membrane
+GO:0005786	CellularComponent	signal recognition particle, endoplasmic reticulum targeting
+GO:0097542	CellularComponent	ciliary tip
+GO:0042827	CellularComponent	platelet dense granule
+GO:0036125	CellularComponent	fatty acid beta-oxidation multienzyme complex
+GO:0036157	CellularComponent	outer dynein arm
+GO:0032991	CellularComponent	macromolecular complex
+GO:0044421	CellularComponent	extracellular region part
+GO:0044447	CellularComponent	axoneme part
+GO:0032432	CellularComponent	actin filament bundle
+GO:0033655	CellularComponent	host cell cytoplasm part
+GO:0060204	CellularComponent	clathrin-sculpted glutamate transport vesicle lumen
+GO:0098687	CellularComponent	chromosomal region
+GO:0034592	CellularComponent	synaptic vesicle lumen
+GO:0000421	CellularComponent	autophagosome membrane
+GO:0097731	CellularComponent	9+0 non-motile cilium
+GO:0036019	CellularComponent	endolysosome
+GO:0009536	CellularComponent	plastid
+GO:0030312	CellularComponent	external encapsulating structure
+GO:0005784	CellularComponent	Sec61 translocon complex
+GO:0005796	CellularComponent	Golgi lumen
+GO:0005802	CellularComponent	trans-Golgi network
+GO:0005879	CellularComponent	axonemal microtubule
+GO:0045239	CellularComponent	tricarboxylic acid cycle enzyme complex
+GO:0045252	CellularComponent	oxoglutarate dehydrogenase complex
+GO:0030669	CellularComponent	clathrin-coated endocytic vesicle membrane
+GO:0016507	CellularComponent	mitochondrial fatty acid beta-oxidation multienzyme complex
+GO:0009353	CellularComponent	mitochondrial oxoglutarate dehydrogenase complex
+GO:0043596	CellularComponent	nuclear replication fork
+GO:0030667	CellularComponent	secretory granule membrane
+GO:0070082	CellularComponent	clathrin-sculpted monoamine transport vesicle lumen
+GO:0044216	CellularComponent	other organism cell
+GO:0099501	CellularComponent	exocytic vesicle membrane
+GO:0033116	CellularComponent	endoplasmic reticulum-Golgi intermediate compartment membrane
+GO:0005615	CellularComponent	extracellular space
+GO:0005782	CellularComponent	peroxisomal matrix
+GO:0045009	CellularComponent	chitosome
+GO:0045240	CellularComponent	dihydrolipoyl dehydrogenase complex
+GO:0009361	CellularComponent	succinate-CoA ligase complex (ADP-forming)
+GO:0044454	CellularComponent	nuclear chromosome part
+GO:0097348	CellularComponent	host cell endocytic vesicle membrane
+GO:0034774	CellularComponent	secretory granule lumen
+GO:0044177	CellularComponent	host cell Golgi apparatus
+GO:1990777	CellularComponent	lipoprotein particle
+GO:0098852	CellularComponent	lytic vacuole membrane
+GO:0097730	CellularComponent	non-motile cilium
+GO:0015630	CellularComponent	microtubule cytoskeleton
+GO:0005657	CellularComponent	replication fork
+GO:0042575	CellularComponent	DNA polymerase complex
+GO:0005777	CellularComponent	peroxisome
+GO:1902503	CellularComponent	adenylyltransferase complex
+GO:0030430	CellularComponent	host cell cytoplasm
+GO:0042709	CellularComponent	succinate-CoA ligase complex
+GO:0043226	CellularComponent	organelle
+GO:0031094	CellularComponent	platelet dense tubular network
+GO:0031901	CellularComponent	early endosome membrane
+GO:0043655	CellularComponent	extracellular space of host
+GO:0042470	CellularComponent	melanosome
+GO:1990391	CellularComponent	DNA repair complex
+GO:0044165	CellularComponent	host cell endoplasmic reticulum
+GO:0070822	CellularComponent	Sin3-type complex
+GO:0045273	CellularComponent	respiratory chain complex II
+GO:0005794	CellularComponent	Golgi apparatus
+GO:0005656	CellularComponent	nuclear pre-replicative complex
+GO:0005964	CellularComponent	phosphorylase kinase complex
+GO:0097539	CellularComponent	ciliary transition fiber
+GO:0097540	CellularComponent	axonemal central pair
+GO:0030139	CellularComponent	endocytic vesicle
+GO:0030313	CellularComponent	cell envelope
+GO:0045335	CellularComponent	phagocytic vesicle
+GO:0005783	CellularComponent	endoplasmic reticulum
+GO:0042995	CellularComponent	cell projection
+GO:0043240	CellularComponent	Fanconi anaemia nuclear complex
+GO:0031410	CellularComponent	cytoplasmic vesicle
+GO:0031907	CellularComponent	microbody lumen
+GO:0031501	CellularComponent	mannosyltransferase complex
+GO:1902911	CellularComponent	protein kinase complex
+GO:0000784	CellularComponent	nuclear chromosome, telomeric region
+GO:0044451	CellularComponent	nucleoplasm part
+GO:0044432	CellularComponent	endoplasmic reticulum part
+GO:0000407	CellularComponent	phagophore assembly site
+GO:0098858	CellularComponent	actin-based cell projection
+GO:0097733	CellularComponent	photoreceptor cell cilium
+GO:0019012	CellularComponent	virion
+GO:0005871	CellularComponent	kinesin complex
+GO:0005667	CellularComponent	transcription factor complex
+GO:0042175	CellularComponent	nuclear outer membrane-endoplasmic reticulum membrane network
+GO:0005789	CellularComponent	endoplasmic reticulum membrane
+GO:0045254	CellularComponent	pyruvate dehydrogenase complex
+GO:0017087	CellularComponent	mitochondrial processing peptidase complex
+GO:0048500	CellularComponent	signal recognition particle
+GO:0001917	CellularComponent	photoreceptor inner segment
+GO:0019031	CellularComponent	viral envelope
+GO:0044424	CellularComponent	intracellular part
+GO:0044435	CellularComponent	plastid part
+GO:0060203	CellularComponent	clathrin-sculpted glutamate transport vesicle membrane
+GO:0070013	CellularComponent	intracellular organelle lumen
+GO:0070382	CellularComponent	exocytic vesicle
+GO:1904724	CellularComponent	tertiary granule lumen
+GO:0009897	CellularComponent	external side of plasma membrane
+GO:0005576	CellularComponent	extracellular region
+GO:0005697	CellularComponent	telomerase holoenzyme complex
+GO:0036156	CellularComponent	inner dynein arm
+GO:0031902	CellularComponent	late endosome membrane
+GO:0044431	CellularComponent	Golgi apparatus part
+GO:0033645	CellularComponent	host cell endomembrane system
+GO:0035578	CellularComponent	azurophil granule lumen
+GO:0034493	CellularComponent	melanosome lumen
+GO:0044215	CellularComponent	other organism
+GO:0099568	CellularComponent	cytoplasmic region
+GO:0035580	CellularComponent	specific granule lumen
+GO:0005874	CellularComponent	microtubule
+GO:0005764	CellularComponent	lysosome
+GO:0016021	CellularComponent	integral component of membrane
+GO:0042025	CellularComponent	host cell nucleus
+GO:0012506	CellularComponent	vesicle membrane
+GO:0005770	CellularComponent	late endosome
+GO:0005945	CellularComponent	6-phosphofructokinase complex
+GO:0005956	CellularComponent	protein kinase CK2 complex
+GO:0045202	CellularComponent	synapse
+GO:0097232	CellularComponent	lamellar body membrane
+GO:0000783	CellularComponent	nuclear telomere cap complex
+GO:0031090	CellularComponent	organelle membrane
+GO:0043202	CellularComponent	lysosomal lumen
+GO:0031211	CellularComponent	endoplasmic reticulum palmitoyltransferase complex
+GO:0098588	CellularComponent	bounding membrane of organelle
+GO:0044422	CellularComponent	organelle part
+GO:0044459	CellularComponent	plasma membrane part
+GO:0060198	CellularComponent	clathrin-sculpted vesicle
+GO:0097478	CellularComponent	leaflet of membrane bilayer
+GO:0070820	CellularComponent	tertiary granule
+GO:0098791	CellularComponent	Golgi subcompartment
+GO:1990909	CellularComponent	Wnt signalosome
+GO:0005775	CellularComponent	vacuolar lumen
+GO:0098802	CellularComponent	plasma membrane receptor complex
+GO:0099080	CellularComponent	supramolecular complex
+GO:0005739	CellularComponent	mitochondrion
+GO:0018995	CellularComponent	host
+GO:0005578	CellularComponent	proteinaceous extracellular matrix
+GO:0005604	CellularComponent	basement membrane
+GO:0005662	CellularComponent	DNA replication factor A complex
+GO:1990234	CellularComponent	transferase complex
+GO:0045281	CellularComponent	succinate dehydrogenase complex
+GO:0031092	CellularComponent	platelet alpha granule membrane
+GO:0043256	CellularComponent	laminin complex
+GO:0030867	CellularComponent	rough endoplasmic reticulum membrane
+GO:0001891	CellularComponent	phagocytic cup
+GO:0030880	CellularComponent	RNA polymerase complex
+GO:0031974	CellularComponent	membrane-enclosed lumen
+GO:0002178	CellularComponent	palmitoyltransferase complex
+GO:0097013	CellularComponent	phagocytic vesicle lumen
+GO:0030141	CellularComponent	secretory granule
+GO:0043657	CellularComponent	host cell
+GO:0005776	CellularComponent	autophagosome
+GO:0044221	CellularComponent	host cell synapse
+GO:0001533	CellularComponent	cornified envelope
+GO:0099503	CellularComponent	secretory vesicle
+GO:0097708	CellularComponent	intracellular vesicle
+GO:0098803	CellularComponent	respiratory chain complex
+GO:0098799	CellularComponent	outer mitochondrial membrane protein complex
+GO:0098793	CellularComponent	presynapse
+GO:0061695	CellularComponent	transferase complex, transferring phosphorus-containing groups
+GO:0005773	CellularComponent	vacuole
+GO:0019866	CellularComponent	organelle inner membrane
+GO:0012505	CellularComponent	endomembrane system
+GO:0005758	CellularComponent	mitochondrial intermembrane space
+GO:0005769	CellularComponent	early endosome
+GO:0005947	CellularComponent	mitochondrial alpha-ketoglutarate dehydrogenase complex
+GO:0098552	CellularComponent	side of membrane
+GO:0098562	CellularComponent	cytoplasmic side of membrane
+GO:0045257	CellularComponent	succinate dehydrogenase complex (ubiquinone)
+GO:0030666	CellularComponent	endocytic vesicle membrane
+GO:0097223	CellularComponent	sperm part
+GO:0031093	CellularComponent	platelet alpha granule lumen
+GO:0043228	CellularComponent	non-membrane-bounded organelle
+GO:0031967	CellularComponent	organelle envelope
+GO:0044428	CellularComponent	nuclear part
+GO:0044427	CellularComponent	chromosomal part
+GO:0044440	CellularComponent	endosomal part
+GO:0044430	CellularComponent	cytoskeletal part
+GO:0055029	CellularComponent	nuclear DNA-directed RNA polymerase complex
+GO:0044174	CellularComponent	host cell endosome
+GO:0098827	CellularComponent	endoplasmic reticulum subcompartment
+GO:0120025	CellularComponent	plasma membrane bounded cell projection
+GO:0005623	CellularComponent	cell
+GO:0005856	CellularComponent	cytoskeleton
+GO:0098585	CellularComponent	host cell synaptic vesicle membrane
+GO:0005605	CellularComponent	basal lamina
+GO:0005788	CellularComponent	endoplasmic reticulum lumen
+GO:0009336	CellularComponent	sulfate adenylyltransferase complex (ATP)
+GO:0031095	CellularComponent	platelet dense tubular network membrane
+GO:0030990	CellularComponent	intraciliary transport particle
+GO:0072492	CellularComponent	host cell mitochondrial intermembrane space
+GO:0098636	CellularComponent	protein complex involved in cell adhesion
+GO:0030054	CellularComponent	cell junction
+GO:0008305	CellularComponent	integrin complex
+GO:0044445	CellularComponent	cytosolic part
+GO:0055037	CellularComponent	recycling endosome
+GO:0032010	CellularComponent	phagolysosome
+GO:0034364	CellularComponent	high-density lipoprotein particle
+GO:0070083	CellularComponent	clathrin-sculpted monoamine transport vesicle membrane
+GO:0044175	CellularComponent	host cell endosome membrane
+GO:0036338	CellularComponent	viral membrane
+GO:0098805	CellularComponent	whole membrane
+GO:0035579	CellularComponent	specific granule membrane
+GO:0101003	CellularComponent	ficolin-1-rich granule membrane
+GO:0099081	CellularComponent	supramolecular polymer
+GO:0005635	CellularComponent	nuclear envelope
+GO:0030660	CellularComponent	Golgi-associated vesicle membrane
+GO:0045334	CellularComponent	clathrin-coated endocytic vesicle
+GO:0000139	CellularComponent	Golgi membrane
+GO:0000781	CellularComponent	chromosome, telomeric region
+GO:0043227	CellularComponent	membrane-bounded organelle
+GO:0031012	CellularComponent	extracellular matrix
+GO:0043230	CellularComponent	extracellular organelle
+GO:0031975	CellularComponent	envelope
+GO:0031981	CellularComponent	nuclear lumen
+GO:0031968	CellularComponent	organelle outer membrane
+GO:0044441	CellularComponent	ciliary part
+GO:0032588	CellularComponent	trans-Golgi network membrane
+GO:0071458	CellularComponent	integral component of cytoplasmic side of endoplasmic reticulum membrane
+GO:0070821	CellularComponent	tertiary granule membrane
+GO:0005881	CellularComponent	cytoplasmic microtubule
+GO:1990204	CellularComponent	oxidoreductase complex
+GO:0097458	CellularComponent	neuron part
+GO:0042587	CellularComponent	glycogen granule
+GO:0005741	CellularComponent	mitochondrial outer membrane
+GO:0042622	CellularComponent	photoreceptor outer segment membrane
+GO:0043229	CellularComponent	intracellular organelle
+GO:0090575	CellularComponent	RNA polymerase II transcription factor complex
+GO:0044420	CellularComponent	extracellular matrix component
+GO:0044462	CellularComponent	external encapsulating structure part
+GO:0033648	CellularComponent	host intracellular membrane-bounded organelle
+GO:0060199	CellularComponent	clathrin-sculpted glutamate transport vesicle
+GO:0060202	CellularComponent	clathrin-sculpted acetylcholine transport vesicle lumen
+GO:0060342	CellularComponent	photoreceptor inner segment membrane
+GO:0070565	CellularComponent	telomere-telomerase complex
+GO:0044161	CellularComponent	host cell cytoplasmic vesicle
+GO:0070721	CellularComponent	ISGF3 complex
+GO:1904813	CellularComponent	ficolin-1-rich granule lumen
+GO:0071682	CellularComponent	endocytic vesicle lumen
+GO:0005622	CellularComponent	intracellular
+GO:0005737	CellularComponent	cytoplasm
+GO:0097545	CellularComponent	axonemal outer doublet
+GO:0016528	CellularComponent	sarcoplasm
+GO:0000775	CellularComponent	chromosome, centromeric region
+GO:0031261	CellularComponent	DNA replication preinitiation complex
+GO:0031966	CellularComponent	mitochondrial membrane
+GO:0035869	CellularComponent	ciliary transition zone
+GO:0044425	CellularComponent	membrane part
+GO:0044433	CellularComponent	cytoplasmic vesicle part
+GO:0032300	CellularComponent	mismatch repair complex
+GO:0044094	CellularComponent	host cell nuclear part
+GO:0044178	CellularComponent	host cell Golgi membrane
+GO:0044217	CellularComponent	other organism part
+GO:0097373	CellularComponent	MCM core complex
+GO:0098798	CellularComponent	mitochondrial protein complex
+GO:0090741	CellularComponent	pigment granule membrane
+GO:0009532	CellularComponent	plastid stroma
+GO:0042555	CellularComponent	MCM complex
+GO:0042581	CellularComponent	specific granule
+GO:0005811	CellularComponent	lipid droplet
+GO:0005790	CellularComponent	smooth endoplasmic reticulum
+GO:0098554	CellularComponent	cytoplasmic side of endoplasmic reticulum membrane
+GO:0017101	CellularComponent	aminoacyl-tRNA synthetase multienzyme complex
+GO:0009320	CellularComponent	phosphoribosylaminoimidazole carboxylase complex
+GO:0009348	CellularComponent	ornithine carbamoyltransferase complex
+GO:0005740	CellularComponent	mitochondrial envelope
+GO:0010008	CellularComponent	endosome membrane
+GO:0042599	CellularComponent	lamellar body
+GO:0031089	CellularComponent	platelet dense granule lumen
+GO:0043231	CellularComponent	intracellular membrane-bounded organelle
+GO:0031253	CellularComponent	cell projection membrane
+GO:0097014	CellularComponent	ciliary plasm
+GO:0044439	CellularComponent	peroxisomal part
+GO:0033647	CellularComponent	host intracellular organelle
+GO:0033018	CellularComponent	sarcoplasmic reticulum lumen
+GO:0032994	CellularComponent	protein-lipid complex
+GO:0034688	CellularComponent	integrin alphaM-beta2 complex
+GO:0070062	CellularComponent	extracellular exosome
+GO:0070187	CellularComponent	shelterin complex
+GO:0044162	CellularComponent	host cell cytoplasmic vesicle membrane
+GO:0101002	CellularComponent	ficolin-1-rich granule
+GO:0044798	CellularComponent	nuclear transcription factor complex
+GO:0020002	CellularComponent	host cell plasma membrane
+GO:0005654	CellularComponent	nucleoplasm
+GO:0030665	CellularComponent	clathrin-coated vesicle membrane
+GO:0030136	CellularComponent	clathrin-coated vesicle
+GO:0030062	CellularComponent	mitochondrial tricarboxylic acid cycle enzyme complex
+GO:0098584	CellularComponent	host cell synaptic vesicle
+GO:0017059	CellularComponent	serine C-palmitoyltransferase complex
+GO:0000790	CellularComponent	nuclear chromatin
+GO:0000785	CellularComponent	chromatin
+GO:0043235	CellularComponent	receptor complex
+GO:0031984	CellularComponent	organelle subcompartment
+GO:0043601	CellularComponent	nuclear replisome
+GO:0031904	CellularComponent	endosome lumen
+GO:0031528	CellularComponent	microvillus membrane
+GO:0005618	CellularComponent	cell wall
+GO:0033643	CellularComponent	host cell part
+GO:0060200	CellularComponent	clathrin-sculpted acetylcholine transport vesicle
+GO:0033650	CellularComponent	host cell mitochondrion
+GO:0033017	CellularComponent	sarcoplasmic reticulum membrane
+GO:0060201	CellularComponent	clathrin-sculpted acetylcholine transport vesicle membrane
+GO:0097650	CellularComponent	B axonemal microtubule
+GO:0097381	CellularComponent	photoreceptor disc membrane
+GO:0034045	CellularComponent	phagophore assembly site membrane
+GO:1990716	CellularComponent	axonemal central apparatus
+GO:0005774	CellularComponent	vacuolar membrane
+GO:1905368	CellularComponent	peptidase complex
+GO:0036020	CellularComponent	endolysosome membrane
+GO:0005759	CellularComponent	mitochondrial matrix
+GO:0005766	CellularComponent	primary lysosome
+GO:0005798	CellularComponent	Golgi-associated vesicle
+GO:0005742	CellularComponent	mitochondrial outer membrane translocase complex
+GO:0005765	CellularComponent	lysosomal membrane
+GO:0097546	CellularComponent	ciliary base
+GO:1902554	CellularComponent	serine/threonine protein kinase complex
+GO:0046930	CellularComponent	pore complex
+GO:0042627	CellularComponent	chylomicron
+GO:0030894	CellularComponent	replisome
+GO:0031970	CellularComponent	organelle envelope lumen
+GO:0031903	CellularComponent	microbody membrane
+GO:0033646	CellularComponent	host intracellular part
+GO:0032838	CellularComponent	plasma membrane bounded cell projection cytoplasm
+GO:0030133	CellularComponent	transport vesicle
+GO:0060205	CellularComponent	cytoplasmic vesicle lumen
+GO:0030659	CellularComponent	cytoplasmic vesicle membrane
+GO:0071556	CellularComponent	integral component of lumenal side of endoplasmic reticulum membrane
+GO:0099512	CellularComponent	supramolecular fiber
+GO:0098796	CellularComponent	membrane protein complex
+GO:0035577	CellularComponent	azurophil granule membrane
+GO:0097487	CellularComponent	multivesicular body, internal vesicle
+GO:0030529	CellularComponent	intracellular ribonucleoprotein complex
+GO:0012507	CellularComponent	ER to Golgi transport vesicle membrane
+GO:0030662	CellularComponent	coated vesicle membrane
+GO:0005771	CellularComponent	multivesicular body
+GO:0005815	CellularComponent	microtubule organizing center
+GO:0005884	CellularComponent	actin filament
+GO:0005971	CellularComponent	ribonucleoside-diphosphate reductase complex
+GO:0016035	CellularComponent	zeta DNA polymerase complex
+GO:0005743	CellularComponent	mitochondrial inner membrane
+GO:0036387	CellularComponent	pre-replicative complex
+GO:0032302	CellularComponent	MutSbeta complex
+GO:0044164	CellularComponent	host cell cytosol
+GO:0044167	CellularComponent	host cell endoplasmic reticulum membrane
+GO:0044166	CellularComponent	host cell endoplasmic reticulum lumen
+GO:0061200	CellularComponent	clathrin-sculpted gamma-aminobutyric acid transport vesicle
+GO:0005575	CellularComponent	cellular_component
+GO:0042579	CellularComponent	microbody
+GO:0005887	CellularComponent	integral component of plasma membrane
+GO:0030135	CellularComponent	coated vesicle
+GO:0005791	CellularComponent	rough endoplasmic reticulum
+GO:0036064	CellularComponent	ciliary basal body
+GO:0031096	CellularComponent	platelet dense tubular network lumen
+GO:0043234	CellularComponent	protein complex
+GO:0036126	CellularComponent	sperm flagellum
+GO:0031982	CellularComponent	vesicle
+GO:0031983	CellularComponent	vesicle lumen
+GO:0031906	CellularComponent	late endosome lumen
+GO:0030670	CellularComponent	phagocytic vesicle membrane
+GO:0032993	CellularComponent	protein-DNA complex
+GO:0044437	CellularComponent	vacuolar part
+GO:0055036	CellularComponent	virion membrane
+GO:0033202	CellularComponent	DNA helicase complex
+GO:0044190	CellularComponent	host cell mitochondrial envelope
+GO:0099513	CellularComponent	polymeric cytoskeletal fiber
+GO:0071256	CellularComponent	translocon complex
+GO:0005694	CellularComponent	chromosome
+GO:0009898	CellularComponent	cytoplasmic side of plasma membrane
+GO:0071944	CellularComponent	cell periphery

@@ -1,0 +1,5 @@
+id:ID	:LABEL	label
+TDL:Tclin	TargetDarknessLevel	TDL:Tclin
+TDL:Tchem	TargetDarknessLevel	TDL:Tchem
+TDL:Tbio	TargetDarknessLevel	TDL:Tbio
+TDL:Tdark	TargetDarknessLevel	TDL:Tdark
