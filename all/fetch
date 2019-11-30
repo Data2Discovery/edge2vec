@@ -1,1 +1,0 @@
-aws s3 sync s3://data2discovery/d/ag/190129/tsv/ . --delete --dryrun
