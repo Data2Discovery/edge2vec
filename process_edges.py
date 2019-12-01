@@ -5,16 +5,17 @@ import os
 
 dir_edge = "edges/"
 
-files_edge = \
-	['geneCellularComponent.tsv', 'targetFamily.tsv', 'pathwayGene.tsv', \
-	 'goRegulates.tsv', 'phenotypeCategory.tsv', 'goComponentOf.tsv', \
-	 'geneGene.tsv', 'compoundIndication.tsv', 'goInstanceOf.tsv', \
-	 'pathwayCompound.tsv', 'isaEC.tsv', 'geneDisease.tsv', \
-	 'geneBiologicalProcess.tsv', 'pathwayCellularComponent.tsv', \
-	 'compoundAdverseEffect.tsv', 'canonicalTarget.tsv', \
-	 'compoundSimilarity.tsv', 'geneEC.tsv', 'geneTissue.tsv', \
-	 'compoundGene.tsv', 'targetDarkness.tsv', 'pathwayContainsPathway.tsv', \
-	 'geneMolecularFunction.tsv', 'goHasPart.tsv', 'isaPhenotype.tsv']
+# files_edge = \
+# 	['geneCellularComponent.tsv', 'targetFamily.tsv', 'pathwayGene.tsv', \
+# 	 'goRegulates.tsv', 'phenotypeCategory.tsv', 'goComponentOf.tsv', \
+# 	 'geneGene.tsv', 'compoundIndication.tsv', 'goInstanceOf.tsv', \
+# 	 'pathwayCompound.tsv', 'isaEC.tsv', 'geneDisease.tsv', \
+# 	 'geneBiologicalProcess.tsv', 'pathwayCellularComponent.tsv', \
+# 	 'compoundAdverseEffect.tsv', 'canonicalTarget.tsv', \
+# 	 'compoundSimilarity.tsv', 'geneEC.tsv', 'geneTissue.tsv', \
+# 	 'compoundGene.tsv', 'targetDarkness.tsv', 'pathwayContainsPathway.tsv', \
+# 	 'geneMolecularFunction.tsv', 'goHasPart.tsv', 'isaPhenotype.tsv']
+files_edge = ['geneGene.tsv']
 
 index = {"vertice": 0, "edge_type": 0}
 vertices = {}
